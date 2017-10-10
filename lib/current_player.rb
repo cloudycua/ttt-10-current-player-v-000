@@ -4,8 +4,5 @@ def turn_count(board)
     if position == "X"
       count += 1
     end
-    if position == "O"
-      count += 1
-    end
   end
 end
